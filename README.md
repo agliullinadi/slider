@@ -1,1 +1,1 @@
-https://agliullinadi.github.io/third/index
+https://agliullinadi.github.io/slider/index
